@@ -1,5 +1,6 @@
 # Jada Glass Website
 <html lang="en">
+   <!DOCTYPE html>
 <body>
 
    <h1>Jada Glass

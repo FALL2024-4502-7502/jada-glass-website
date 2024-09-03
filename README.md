@@ -20,6 +20,5 @@
   <nav>
         <a href="Contact">Contact</a> <Contact>
         <a href="https://www.linkedin.com/in/jada-glass-20a496227" target="_blank">LinkedIn</a>
-    </nav>
-</body>
+  </nav>
 </html>
